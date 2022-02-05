@@ -10,3 +10,14 @@
     /*font-family: 'Bebas Neue', cursive; LA COMA ES PORQUE SI NO ENCUENTRA EL PRIMERO VA POR LA SEGUNDA NOMÁS*/
     color: blueviolet;
 }
+
+nav {
+    background-color: yellow;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2em;
+    height: 2em;
+}
+
+footer {
+    background-color: yellow;
+}
